@@ -87,6 +87,16 @@ AI Agent 反爬爬虫
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiabai2008&layout=compact&hide_border=true&langs_count=8" alt="langs" />
 </p>
 
+## 贡献贪吃蛇
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiabai2008/xiabai2008/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiabai2008/xiabai2008/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/xiabai2008/xiabai2008/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
 ---
 
 <p align="center">
