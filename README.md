@@ -83,8 +83,9 @@ AI Agent 反爬爬虫
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xiabai2008&show_icons=true&hide_border=true&count_private=true" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiabai2008&layout=compact&hide_border=true&langs_count=8" alt="langs" />
+  <!-- 官方实例 github-readme-stats.vercel.app 曾因流量超限被暂停（DEPLOYMENT_PAUSED），此处使用社区镜像；若镜像再挂可自部署 Vercel -->
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xiabai2008&show_icons=true&hide_border=true&count_private=true" alt="stats" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xiabai2008&layout=compact&hide_border=true&langs_count=8" alt="langs" />
 </p>
 
 ## 贡献贪吃蛇
