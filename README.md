@@ -1,4 +1,4 @@
-<h1 align="center">xiabai2008 · 柒迷狄依</h1>
+<h1 align="center">xiabai2008 · 柒遂枚依</h1>
 
 <p align="center"><b>网络空间安全专业在读 · 安全工具开发者</b></p>
 
