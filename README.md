@@ -1,6 +1,6 @@
 <h1 align="center">xiabai2008 · 柒遂枚依</h1>
 
-<p align="center"><b>网络空间安全专业在读 · 安全工具开发者</b></p>
+<p align="center"><b>安全工具开发者 · 开源维护者</b></p>
 
 <p align="center">
   做垂直场景的安全工具：检测要准，工程要实，AI 要用在刀刃上。<br/>
